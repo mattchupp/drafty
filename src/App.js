@@ -5,7 +5,7 @@ import TextEditor from './components/Editor';
 
 function App() {
   return (
-    <div>
+    <div className="app-container">
       <TextEditor />
       
     </div>
